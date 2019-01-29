@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">innovation</string>
+
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+
+    <string name="story">Stories</string>
+    <string name="watch">Watch All</string>
+    <string name="like">Likes</string>
+    <string name="alise">alisesmith</string>
+    <string name="postno">245</string>
+    <string name="followersno">7850</string>
+    <string name="followingno">715</string>
+    <string name="posts">posts</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="send">Send Message</string>
+    <string name="smith">Alise Smith</string>
+    <string name="fashion">Fashion-designer, London UK</string>
+    <string name="one">1. Home Page</string>
+    <string name="two">2. Profile Page</string>
+
+    <string name="FACEBOOK_APP_ID">498155090677682</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">c25cc20febd2e036f366d1393f71aa65</string>
+
+
+    <string name="lorum">In publishing and graphic design, lorem ipsum is a placeholder text commonly used to .... and praising pain was born and I will give you a complete account of the system, and expound the .... EICAR test file · GTUBE ·</string>
+</resources>

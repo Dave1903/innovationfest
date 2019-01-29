@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Events</item>
+        <item>Profile</item>
+        <item>Innovation Cell</item>
+        <item>Team</item>
+        <item>About developer</item>
+
+        <item>EXIT</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_circlestar_grey</item>
+        <item>@drawable/ic_circlestar_grey</item>
+        <item>@drawable/ic_circlestar_grey</item>
+        <item>@drawable/ic_circlestar_grey</item>
+        <item>@drawable/ic_circlestar_grey</item>
+        <item>@drawable/ic_send</item>
+    </array>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="colorTex">#585858</color>
+    <color name="colordevider">#64dad8d8</color>
+    <color name="colorblue">#4c71f5</color>
+    <color name="colorSub">#b0afaf</color>
+
+
+
+    <color name="listsub1">#7b7b7b</color>
+    <color name="listsub2">#9e9e9e</color>
+    <color name="listtext">#585858</color>
+
+
+    <color name="back">#f2f6f9</color>
+    <color name="sendblue">#007aff</color>
+    <color name="icongrey">#a1a09f</color>
+    <color name="apptool">#e8eff5</color>
+    <color name="icons">#2e2e30</color>
+    <color name="viewgrey">#DCDCDC</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="deep_purple_500">#673AB7</color>
+
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+
+
+
+</resources>

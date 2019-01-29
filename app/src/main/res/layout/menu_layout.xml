@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.NavigationView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_view1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="start"
+    android:fitsSystemWindows="true">
+
+
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#FFFFFF"
+        android:orientation="vertical"
+        android:paddingLeft="22dp">
+
+
+        <ImageView
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            android:src="@drawable/dave" />
+
+
+        <com.thedevelopershome.innovationfest.customfonts.MyTextView_Lato_Medium
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="john wade"
+            android:gravity="center"
+            android:layout_marginTop="32dp"
+            android:textAllCaps="true"
+            android:textColor="#222222"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@drawable/pin"/>
+
+            <com.thedevelopershome.innovationfest.customfonts.MyTextView_Lato_Light
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#222222"
+                android:textSize="12sp"
+                android:layout_marginLeft="10dp"
+                android:layout_gravity="center"
+                android:text="MONTREAL, CANADA"/>
+
+
+        </LinearLayout>
+
+        <com.thedevelopershome.innovationfest.customfonts.MyTextView_Lato_Light
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Activity"
+            android:textSize="27sp"
+            android:gravity="center"
+            android:layout_marginTop="69dp"
+            android:textColor="#222222"/>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp">
+
+
+            <com.thedevelopershome.innovationfest.customfonts.MyTextView_Lato_Light
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Messages"
+                android:textSize="27sp"
+                android:gravity="center"
+                android:textColor="#222222"/>
+
+            <ImageView
+                android:layout_width="17dp"
+                android:layout_height="17dp"
+
+                android:layout_marginRight="50dp"
+                android:layout_gravity="right"/>
+
+
+
+        </FrameLayout>
+
+        <com.thedevelopershome.innovationfest.customfonts.MyTextView_Lato_Light
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Friends"
+            android:textSize="27sp"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:textColor="#222222"/>
+
+
+        <com.thedevelopershome.innovationfest.customfonts.MyTextView_Lato_Light
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Settings"
+            android:textSize="27sp"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            android:textColor="#222222"/>
+
+
+
+
+    </LinearLayout>
+
+</android.support.design.widget.NavigationView>
